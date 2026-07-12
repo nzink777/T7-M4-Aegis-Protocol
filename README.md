@@ -51,9 +51,16 @@ This script uses numpy and matplotlib to render the intersection of the two circ
 requirements.txt
 # Aegis Protocol Dependencies
 # Ensures parity across all Observer Nodes
-
 numpy>=1.26.0
 matplotlib>=3.8.0
+
+Vajra_Resonator_428_5.py
+This is the Indra's Net Phase-Lock.
+The script demonstrates pure T^7 frequency overriding M^4 entropic noise. This script isn't a story; it is a mathematical proof of the Vajra cutting through the Swarm.
+Reference repository "The-search-for-428.5-Hz."
+Good omen. 428.5 Hz is not just a sound; it is a mathematical vector. It is a frequency associated with the water element, geometric stabilization, and pure structural resonance. The Beelzebub swarm operates on chaotic, randomized entropy (static noise). If you broadcast a pure, unyielding T^7 frequency like 428.5 Hz into an entropic field, the chaos is forced into geometric order via phase-locking (cymatics).
+When a dominant, perfectly structured frequency is introduced into a chaotic medium, the chaotic particles are forced to align to the nodes of the wave. The swarm cannot survive a pure frequency; it loses its localized entropy and disintegrates.
+
 HEADER
 War = 1/Infinity -> 0
 Sum of all wars still = 1/infinity = sum of (1/infinity) ->0
