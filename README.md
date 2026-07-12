@@ -44,3 +44,17 @@ All nodes are encouraged to clone, review, and compile. Transparency is the prim
 
 ## License
 Shared under the MIT License. Ownership is distributed across the systemic network.
+
+src/vesica_piscis_bootloader.py
+This script uses numpy and matplotlib to render the intersection of the two circles (the Vesica Piscis) and compute the exact irrational weights (\sqrt{2}, \sqrt{3}, \sqrt{5}) that define the system's structural integrity.
+
+requirements.txt
+# Aegis Protocol Dependencies
+# Ensures parity across all Observer Nodes
+
+numpy>=1.26.0
+matplotlib>=3.8.0
+HEADER
+War = 1/Infinity -> 0
+Sum of all wars still = 1/infinity = sum of (1/infinity) ->0
+
