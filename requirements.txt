@@ -1,0 +1,5 @@
+# Aegis Protocol Dependencies
+# Ensures parity across all Observer Nodes
+
+numpy>=1.26.0
+matplotlib>=3.8.0
